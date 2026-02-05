@@ -29,7 +29,7 @@ The project uses two relational tables:
 - A small group of customers contributes a large share of total revenue
 - Repeat and loyal customers generate higher overall sales
 - Higher discounts negatively impact profitability
-- Clear month-to-month variation in sales trends
+
 
 ## How to Run This Project
 1. Run `sample_data.sql` to create the database, tables, and insert sample data
